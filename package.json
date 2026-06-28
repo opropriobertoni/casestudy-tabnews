@@ -1,0 +1,20 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Case study project for TabNews",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "engines": {
+    "node": ">=18.14.0"
+  },
+  "private": true,
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
